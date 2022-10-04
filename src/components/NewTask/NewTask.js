@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import useFetch from "../../hooks/use-fetch";
 
 import Section from "../UI/Section";
